@@ -3,6 +3,7 @@
 
 body {
     background-image: url('1280x720.jpg');
+    background-color: darkgray;
 }
 main {
     width: 1000px;
