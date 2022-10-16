@@ -2,7 +2,7 @@
 
 
 body {
-    background-image: url("1280x720.jpg");
+    background-image: url('1280x720.jpg');
 }
 main {
     width: 1000px;
