@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+body {
+    background-image: url("/1280x720.jpg");
+}
+main {
+    width: 1000px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+button {
+    padding: 5px;
+}
+button a {
+    text-decoration: none;
+    color: black;
+}
+nav {
+    padding: 20px;
+}
+button:hover {
+    background-color: darkgray;
+}
+a:hover {
+    color: black;
+}
